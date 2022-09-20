@@ -5,7 +5,7 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
 name = "python_py_project"
-version = "0.1.0"
+version = "0.2.0"
 description = ""
 readme = "README.md"
 authors = ["Jakub Cehak <jakub.cehak@medtronic.com>"]
